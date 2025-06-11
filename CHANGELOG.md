@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ardaadalar-b/semantic-ci/compare/v1.3.0...v2.0.0) (2025-06-11)
+
+
+### Features
+
+* **core:** remove deprecated APIs   ([5a785dc](https://github.com/ardaadalar-b/semantic-ci/commit/5a785dc3060f336451d57e8d7c7354ce90946099))
+
+
+### BREAKING CHANGES
+
+* **core:** These APIs were deprecated in v1.2 and are now removed in v2.0.
+
 # [1.3.0](https://github.com/ardaadalar-b/semantic-ci/compare/v1.2.0...v1.3.0) (2025-06-11)
 
 
