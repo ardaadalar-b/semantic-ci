@@ -11,7 +11,6 @@ gg
 rr
 ss
 dd
-ee
-5r
+eeğr
 666
  nkl
